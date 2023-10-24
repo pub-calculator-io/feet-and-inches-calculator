@@ -10,6 +10,8 @@ License: GPLv2 or later
 Text Domain: ci_feet_and_inches_calculator
 */
 
+if (!defined('ABSPATH')) exit;
+
 if (!function_exists('add_shortcode')) return "No direct call for Feet and Inches Calculator by Calculator.iO";
 
 function display_ci_feet_and_inches_calculator(){
