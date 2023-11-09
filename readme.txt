@@ -13,6 +13,8 @@ A feet and inches calculator helps with math problems. Add feet and inches, subt
 
 A feet and inches calculator helps with math problems. Add feet and inches, subtract, multiply, or divide them with ease.
 
+[Feet and Inches Calculator Homepage](https://www.calculator.io/feet-and-inches-calculator/ "Feet and Inches Calculator Homepage")
+
 __Shortcode__
 
 Use the Feet and Inches Calculator shortcode:
