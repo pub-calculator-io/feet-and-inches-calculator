@@ -9,41 +9,29 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 A feet and inches calculator helps with math problems. Add feet and inches, subtract, multiply, or divide them with ease.
 
-== Description ==
-
-A feet and inches calculator helps with math problems. Add feet and inches, subtract, multiply, or divide them with ease.
-
 [https://www.calculator.io/feet-and-inches-calculator/](https://www.calculator.io/feet-and-inches-calculator/)
 
-__Feet and Inches Calculator Shortcode__
+== Usage ==
+
+Add the Feet and Inches Calculator shortcode to your page, post or sidebar:
 
 `[ci_feet_and_inches_calculator]`
 
-== Installation ==
+Add the following code to your template where you would like the Feet and Inches Calculator to appear:
 
-1. Upload the /ci_feet_and_inches_calculator/ folder to the /wp-content/plugins/ directory.
-2. Activate the [Feet and Inches Calculator](https://www.calculator.io/feet-and-inches-calculator/ "Feet and Inches Calculator Homepage") plugin through the "Plugins" menu in WordPress.
-
-== Feet and Inches Calculator Usage ==
-
-* Add the shortcode `[ci_feet_and_inches_calculator]` to your page, post or sidebar.
-* Add the following code: `<?php display_ci_feet_and_inches_calculator(); ?>` to your template where you would like the Feet and Inches Calculator to appear.
+`<?php display_ci_feet_and_inches_calculator(); ?>`
 
 == Screenshots ==
 
 1. The Feet and Inches Calculator Input Form.
 2. The Feet and Inches Calculator Calculation Results.
 
-== Libraries used in Feet and Inches Calculator ==
+== Installation ==
 
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
+1. Upload the Feet and Inches Calculator /ci_feet_and_inches_calculator/ folder to the /wp-content/plugins/ directory.
+2. Activate the Feet and Inches Calculator plugin through the "Plugins" menu in WordPress.
 
 == Changelog ==
 
 = 1.0.0 =
-* Initial release
+* Initial release of Feet and Inches Calculator
