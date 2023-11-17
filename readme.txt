@@ -1,6 +1,6 @@
 === Feet and Inches Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: feet to inches calculator, height conversion tool, convert feet to inches, inches to feet calculator, measurement converter, length conversion calculator, feet inches to centimeters, height calculator, measuring units conversion, convert inches
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
