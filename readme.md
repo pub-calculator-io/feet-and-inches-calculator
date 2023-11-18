@@ -1,4 +1,4 @@
-# Feet and Inches Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Feet and Inches Calculator Widget for WordPress
 
 A feet and inches calculator helps with math problems. Add feet and inches, subtract, multiply, or divide them with ease.
 
