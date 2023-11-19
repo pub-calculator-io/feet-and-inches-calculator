@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Feet and Inches Calculator by www.calculator.io
+Plugin Name: CI Feet and inches calculator
 Plugin URI: https://www.calculator.io/feet-and-inches-calculator/
 Description: A feet and inches calculator helps with math problems. Add feet and inches, subtract, multiply, or divide them with ease.
 Version: 1.0.0
