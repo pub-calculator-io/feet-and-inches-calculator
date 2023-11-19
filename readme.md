@@ -7,7 +7,7 @@ A feet and inches calculator helps with math problems. Add feet and inches, subt
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/feet-and-inches-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /feet-and-inches-calculator-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Feet and Inches Calculator](https://www.calculator.io/feet-and-inches-calculator/ "Feet and Inches Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
