@@ -3,7 +3,6 @@
 A feet and inches calculator helps with math problems. Add feet and inches, subtract, multiply, or divide them with ease.
 
 ![Feet and Inches Calculator Input Form](/assets/images/screenshot-1.png "Feet and Inches Calculator Input Form")
-![Feet and Inches Calculator Calculation Results](/assets/images/screenshot-2.png "Feet and Inches Calculator Calculation Results")
 
 ## Installation
 

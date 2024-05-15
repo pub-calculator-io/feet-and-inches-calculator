@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Feet and Inches
 == Screenshots ==
 
 1. The Feet and Inches Calculator Input Form.
-2. The Feet and Inches Calculator Calculation Results.
 
 == Installation ==
 
