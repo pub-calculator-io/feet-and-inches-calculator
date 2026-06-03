@@ -1,6 +1,6 @@
 # Feet and Inches Calculator Widget for WordPress
 
-A feet and inches calculator helps with math problems. Add feet and inches, subtract, multiply, or divide them with ease.
+Easily add, subtract, multiply, and divide measurements with our free Feet and Inches Calculator. Get quick, accurate results for DIY, construction, and math.
 
 ![Feet and Inches Calculator Input Form](/assets/images/screenshot-1.png "Feet and Inches Calculator Input Form")
 
@@ -11,8 +11,8 @@ A feet and inches calculator helps with math problems. Add feet and inches, subt
 3. Activate the [Feet and Inches Calculator](https://www.calculator.io/feet-and-inches-calculator/ "Feet and Inches Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_feet_and_inches_calculator]` to your page, post or sidebar.
-* Or add the following code: `<?php display_ci_feet_and_inches_calculator(); ?>` to your template where you would like the Feet and Inches Calculator to appear.
+* Add the shortcode `[calcio_feet_and_inches_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_calcio_feet_and_inches_calculator(); ?>` to your template where you would like the Feet and Inches Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
